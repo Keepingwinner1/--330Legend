@@ -26,15 +26,15 @@
 
 - 支持装备系统（包括装备的移出，随机等等，还需要支持装备选秀的回合） 支持战斗中的音效
 
-![](C:\Users\lenovo\Desktop\程序设计范式期末大项目-金铲铲330版\source-code\DocImg\1.png)
+![](./DocImg/1.png)
 
-![](.\DocImg\2.png)
+![](./DocImg/2.png)
 
-![](.\DocImg\4.png)
+![](./DocImg/4.png)
 
-![](.\DocImg\3.png)
+![](./DocImg/3.png)
 
-![](.\DocImg\5.png)
+![](./DocImg/5.png)
 
 ## 项目技术栈与目录结构
 
