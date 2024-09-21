@@ -26,15 +26,15 @@
 
 - 支持装备系统（包括装备的移出，随机等等，还需要支持装备选秀的回合） 支持战斗中的音效
 
-![](./DocImg/1.png)
+<img src="./DocImg/1.png" title="" alt="" width="516">
 
-![](./DocImg/2.png)
+<img src="./DocImg/2.png" title="" alt="" width="514">
 
-![](./DocImg/4.png)
+<img src="./DocImg/4.png" title="" alt="" width="638">
 
-![](./DocImg/3.png)
+<img src="./DocImg/3.png" title="" alt="" width="643">
 
-![](./DocImg/5.png)
+<img src="./DocImg/5.png" title="" alt="" width="643">
 
 ## 项目技术栈与目录结构
 
